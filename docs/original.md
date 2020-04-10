@@ -1,3 +1,8 @@
+---
+layout: default
+title: Staggered Symmetric Passing: Original Article (Mobile Friendly)
+---
+
 # Staggered Symmetric Passing by Sean Gandini
 
 ## Prechac Transformation
