@@ -3,6 +3,8 @@ layout: default
 title: Siteswap Families
 ---
 
-# Siteswap Families
+# Staggered Symmetric Passing
 
-<p class="button"><a href="original.html">Original Document</a></p>
+This purpose of this project is to make Sean Gandini's article mobile friendly, and to work on updating, extending, and improving the original piece. 
+
+Done with permission from Sean Gandini. 
