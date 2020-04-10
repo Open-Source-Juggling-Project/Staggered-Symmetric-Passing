@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Siteswap Families
+title: Staggered Symmetric Passing
 ---
 
 # Staggered Symmetric Passing
