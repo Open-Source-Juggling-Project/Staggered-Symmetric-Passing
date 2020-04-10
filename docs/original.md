@@ -180,88 +180,159 @@ Circulation 4
 #### 3) Bi
 
 Bi in this context refers to twoness. Patterns with Bi passes are odd length patterns where the jugglers use both their left and right hands to pass and receive. In the face to face position they are juggled with one juggler crossing all passes and one juggler throwing all passing tramline straight.
-Notice that in Bi patterns one passes out from the opposite hand to the one that received the previous incoming pass. This information is useful when starting complex patterns.
-Bi passes are generated when:
-an odd digit is transformed upwards within an odd period siteswap
-or
-an even digit is transformed downwards within and odd period siteswap.
-On our lists Bi passes will be coloured Purple.
-Notice that all Bi patterns have Decimal value of x.5. This is because in order to create a pass from an odd period siteswap, we are adding or substracting a half of an odd digit which will always
 
-finish by x.5. 3 Objects
+Notice that in Bi patterns one passes out from the opposite hand to the one that received the previous incoming pass. This information is useful when starting complex patterns.
+
+Bi passes are generated when:
+
+an odd digit is transformed upwards within an odd period siteswap
+
+or
+
+an even digit is transformed downwards within and odd period siteswap.
+
+## =-= [Text Colouring Required Here] =-=
+
+On our lists Bi passes will be coloured Purple.
+
+Notice that all Bi patterns have Decimal value of x.5. This is because in order to create a pass from an odd period siteswap, we are adding or substracting a half of an odd digit which will always finish by x.5. 3 Objects
+
 Examples Patterns
+
 2.5p 1 1
 Three objects three count, a fun pattern which can be juggled with quarter spins sometimes called joe-passes. Joe pass is the stickman who demonstrates passing patterns in the Joe-Pass software, Wolfgang W who coded this wonderfull software informs me that it was by accidental default that anything under a 3p gets thrown as a quarter spin.
+
 5 Objects
+
 3 2.5p 2
 A good popcorn pattern. Also fun with joe-passes or pselfs as they Berlin group Take That Out call them.
+
 7 Objects
+
 < 4.5p 3 3 | 3 3 4.5p >
 The standard 7 Object 3 count
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 There are just 2 ways of juggling these patterns. In the face to face position one juggler crosses his passes and one juggler throws them straight. The second way is just the mirror image of the first.
- RBL RBL RBL RBL
+
+## =-= [Image Required Here] =-=
+
+RBL RBL RBL RBL
        LAR
 RBLRAL RBLRAL RBLRAL RBLRAL
    LAR LAR LAR
            First pass A’s Right Second pass B’s to B’s Right Left
 to A’s Right
 Third pass A’s Fourth pass B’s Left Right to A’s Left to B’s Left
-4) Instant-Bi
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+#### 4) Instant-Bi
+
 Instant-Bi patterns are extremely similar in feel to the Bi patterns. They are also odd length patterns where both hands pass and receive. They can also be juggled face to face with one juggler crossing and one juggler going straight. The difference is that the hand that catches the incoming pass is the hand that passes the next pass.
+
 Instant-Bi passes are generated when:
-an even digit is transformed upwards within an odd period siteswap. an odd digit is transformed downwards within an odd period siteswap.
+
+an even digit is transformed upwards within an odd period siteswap. 
+an odd digit is transformed downwards within an odd period siteswap.
+
+## =-= [Text Colouring Required Here] =-=
+
 In our lists Instant-Bi patterns are colored green.
 
 Examples
+
 3 Objects
+
 3.5p 0 1
 A charming simple pattern that feels like the two ball pattern 501.
+
 5 Objects
+
 3.5p 3 1
 Can be learned as 3.5p22 progressively replacing the 22’s with 31’s.
 If juggled with clubs remember that it should be floaty singles or spiny doubles.
+
 7 Objects
+
 43.5p3
 The popular French three count. As above the passes should float.
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 Below is an illustration of the hand circulation for Bi-Equi Passes. There are two circulations possible, the second being the mirror image of the first.
+
+## =-= [Image Required Here] =-=
+
 LL
  RBL RBL RBL RBL
 LAR LAR LAR LAR RBLRALRBLRALRBLRALRBLRAL
 First pass A’s Second pass B’sRight Third pass A’s Left Fourth pass B’s Left Right to B’s Right to A’s Left to B’s Left to A’s Right
-Patterns with more than one pass
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+## Patterns with more than one pass
+
 One can apply a Prechat transformation to more than one digit in the pattern and end up with patterns with more than one pass.
+
 For example
-1111 3p3p11 a 4 object 2 pass pattern 3333 5p5p33 an 8 object 2 pass pattern
-                     This is where things start getting interesting and complicated.
+
+1111 3p3p11 a 4 object 2 pass pattern 
+
+3333 5p5p33 an 8 object 2 pass pattern
+
+This is where things start getting interesting and complicated.
 
 It is worth remembering that our terminology relates just to the pass and not the pattern as a whole. So a pattern can have different kinds of passes.
-Even period patterns can contain Equihanded passes and Classic passes. Odd period pattern can contain Bi passes and Instant-Bi passes.
-Examples
-When passing face to face it is useful to remember is that if a 3p (an odd pass) crosses then a 4p (an even pass) will be straight and vice versa. This is also true of decimal passes where one can disregard the decimal part. So if we decide to cross a 3.5p then a 4.5p will be straight.
-Obviously patterns with more than one pass are more difficult to learn than patterns with just one pass. This where understanding the Prechac transformation can come in handy.
-For example if we are trying to learn 42p11p a fun 4 object pattern. It might help to transform the pattern into the 5 object 1 pass pattern by doing a reverse Prechac on the second pass. Half the period is 2, so if we add 2 to the final pass we get:
-42p13 which has more objects but is probably easier to juggle.
-So to generalise: Starting from any siteswap with n objects you can create a pattern with 2n+k objects where k is the amount of passes.
-Orbits of the objects in symmetric patterns
-Another interesting application of the Prechac system is that when you transform a siteswap into a passing pattern the siteswap’s object orbits are preserved.
-Lets assume i want to create a 2 person patterns with a similar feel to the 2 ball 312. In 312 the “3” balls goes backwards and forwards “locked” in its orbit. It we augment the 1, by half the period, it becomes 2.5p. So we get the pattern 3 2.5p 2. Which feels very similar and stil has the locked 3s.
-So for example the pattern 5241 has two orbits, It has one object going up and down as a 4 (0040)
-and 2 objects on a slow shower like pattern (5201). If we transform it into 54p41 a 7 object passing pattern the final pattern still has only 2 orbits, the 4s still bop up and down and there are now 5 objects doing 54p01.
-Synchronous
-One can apply the Prechac transformation to synchronous patterns. Synchronous patterns convert to just 2 kinds of passes. Classic passes and Equihanded passes.
-Digits which have an x transform to classic passes whilst digits without an x transform to equihanded passes.
-Because of this there is not need to colour code the passes. Digits followed by and x keep the x
 
-when converted.
-Multiplex
+Even period patterns can contain Equihanded passes and Classic passes. 
+
+Odd period pattern can contain Bi passes and Instant-Bi passes.
+
+Examples
+
+When passing face to face it is useful to remember is that if a 3p (an odd pass) crosses then a 4p (an even pass) will be straight and vice versa. This is also true of decimal passes where one can disregard the decimal part. So if we decide to cross a 3.5p then a 4.5p will be straight.
+
+Obviously patterns with more than one pass are more difficult to learn than patterns with just one pass. This where understanding the Prechac transformation can come in handy.
+
+For example if we are trying to learn 42p11p a fun 4 object pattern. It might help to transform the pattern into the 5 object 1 pass pattern by doing a reverse Prechac on the second pass. Half the period is 2, so if we add 2 to the final pass we get:
+
+42p13 which has more objects but is probably easier to juggle.
+
+So to generalise: Starting from any siteswap with n objects you can create a pattern with 2n+k objects where k is the amount of passes.
+
+### Orbits of the objects in symmetric patterns
+
+Another interesting application of the Prechac system is that when you transform a siteswap into a passing pattern the siteswap’s object orbits are preserved.
+
+Lets assume i want to create a 2 person patterns with a similar feel to the 2 ball 312. In 312 the “3” balls goes backwards and forwards “locked” in its orbit. It we augment the 1, by half the period, it becomes 2.5p. So we get the pattern 3 2.5p 2. Which feels very similar and stil has the locked 3s.
+
+So for example the pattern 5241 has two orbits, It has one object going up and down as a 4 (0040) and 2 objects on a slow shower like pattern (5201). If we transform it into 54p41 a 7 object passing pattern the final pattern still has only 2 orbits, the 4s still bop up and down and there are now 5 objects doing 54p01.
+
+### Synchronous
+
+One can apply the Prechac transformation to synchronous patterns. Synchronous patterns convert to just 2 kinds of passes. Classic passes and Equihanded passes.
+
+Digits which have an x transform to classic passes whilst digits without an x transform to equihanded passes.
+
+Because of this there is not need to colour code the passes. Digits followed by and x keep the x when converted.
+
+### Multiplex
+
 We can indeed apply the same set of rules to multiplex patterns as we do to all other patterns. These patterns have the same classification as the other 2 person patterns.
-Synchronous Multiplex
+
+### Synchronous Multiplex
+
 Synchronous multiplex patterns have the same classification as synchronous patterns.
-MHN and polyrythms
+
+### MHN and polyrythms
+
 The Prechac transformation can indeed be applied to more complex notations...
 So in fact in you are in the company of 5 jugglers who are good polyrhytmic multiplexers you can quickly and easily put together some fun pentagons.
 
-3 jugglers
+## 3 jugglers
+
 For 3 jugglers things get slightly more complex but more interesting. One now has a choice of adding or substracting either 1 third of the period, or 2 thirds of the period in order to transform a throw into a pass. We call these different transformations levels of augmentation. So a siteswap to which one adds 1 third is single augmented and one to which one adds 2 thirds become double augmented.
 For example if i start from the siteswap 33 which is period 2, i can transform it by adding a third:
 33 we add 0.6 which is a third of 2, and we get: 3.6p3 a 10 object 2 count triangle
