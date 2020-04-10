@@ -21,7 +21,7 @@ The patterns are notated using a simple extension of siteswaps which involves pu
 
 Since most of the patterns in this article are symmetric, with all the jugglers doing the same job, in many situations only one juggler’s job is shown. So for example the well known 7 object Triple Singles, if written in its full form:
 
-< 5p 3 3 3 | 3 3 5p 3 >
+< 5p 3 3 3 \| 3 3 5p 3 >
 
 The first part of the pattern gives Juggler 1’s role and the second part gives juggler 2s role. 
 
