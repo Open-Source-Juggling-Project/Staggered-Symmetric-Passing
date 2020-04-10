@@ -729,150 +729,231 @@ LAR
 Sixth pass C’s Left to B’s Right
 L
      gA gC gB gA gC gB 1 R-L L-R R-L L-R R-L L-R 2 R-R R-R R-L L-L L-L L-R 3 R-L L-L L-L L-R R-R R-R 4 R-R R-L L-L L-L L-R R-R
-More passes
-As we saw with the 2 person patterns, the categories refer to passes and not patterns. So patterns can contain more than one kind of patterns. As you can see from the colouring of the pattern lists,
 
-no pattern contains more than two kinds of passes.
-Multidirectional patterns
+### More passes
+
+As we saw with the 2 person patterns, the categories refer to passes and not patterns. So patterns can contain more than one kind of patterns. As you can see from the colouring of the pattern lists, no pattern contains more than two kinds of passes.
+
+### Multidirectional patterns
+
 As we saw above in patterns with 3 jugglers, the direction of the passes is dependant on the amount that one adds to the initial siteswap value. So we can imagine patterns with more than one pass where the passing order is different for each pass.
+
 We will call these patterns multidirectional patterns. They are generated through a Prechac Transformation that adds different multiples of the period to different digits. In practical terms what this means is that each juggler passes to more than one other juggler.
+
 For example:
+
 531531 we remove 1/3 of the period from the first 5 and 2/3rd from the second 5 and get
+
+## =-= [Need to colour the text here] =-=
+
 3p2311p31
+
 This is a marvellous pattern for 6 objects that was first shown to me by Denis Paumier and Sylvain
 Garnavault where the 1ps circulate in one direction and the 3ps circulate in the opposite direction.
-612612 4p2122p12 711711 5p2113p11 801801 6p2014pi01
-Generalising the Notation to many jugglers
+
+612612 4p2122p12 
+
+711711 5p2113p11 
+
+801801 6p2014pi01
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+### Generalising the Notation to many jugglers
+
 One can extend this to more jugglers. For m jugglers one has a choice of what to add to a siteswap digit to tranform it. One can add 1/m of the period or 2/m of the period up to m-1/m of the period. So for example if one is dealing with 5 jugglers one can add or substract 1/5, 2/5, 3/5 or indeed 4/5.
+
 In terms of the categorical equivalence adding x/m is the equivalent to substractin m-x/m.
+
 Lets look at a practical example: to make a 7 juggler pattern by adding 6/7th will give the same category of pattern as substracting 1/7. One can intuitively undestand why this is by remembering the siteswap rule, which says you can add the period to any of the digits in a siteswap and end up with another valid siteswap.
-This also applies to multidirectional passing, so one can create patterns with more than one pass a nice 4 person distributive pattern.
+
+This also applies to multidirectional passing, so one can create patterns with more than one pass 
+
+a nice 4 person distributive pattern.
+
 717171 2.5p314p215.5p11
-Many jugglers
+
+### Many jugglers
 
 As an example of the usefullness of this procedure lets generate the standard two counts for different amount of jugglers
- Initial 2 Jugglers Siteswap
-33 4p 3
-7 Objects
-3 Jugglers
-3.6p 3
-10 Objects
-4.3p2 3 11 Objects
-4 Jugglers
-3.5p 3
-13 Objects
-4p2 3
-14 Objects
-4.5p3 3 15 Objects
-5 Jugglers
-3.4p 3
-16 Objects
-3.8p2 3 17 Objects
-4.2p3 3 18 Objects
-4.6p4 3 19 Objects
-6 Jugglers
-3.3p 3
-19 Objects
-3.6p2 3 20 Objects
-4p3 3
-21 Objects
-4.3p4 3 22 Objects
-4.6p5 3 23 Objects
-7 Jugglers
-3.3p 3
-22 Objects
-3.6p2 3 23 Objects
-3.8p3 3 24 Objects
-4.1p4 3 25 Objects
-4.4p5 3 26 Objects
-4.7p6 3 27 Objects
-       Multiples
+
+## =-= [Need to work out how to have multi-line row entries] =-=
+
+| Initial Siteswap | 2 Jugglers | 3 Jugglers | 4 Jugglers | 5 Jugglers | 6 Jugglers | 7 Jugglers |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 33 | 4p 3 (7 Objects)     | 3.6p 3 (10 Objects)  | 3.5p 3 (13 Objects)  | 3.4p 3 (16 Objects)  | 3.3p 3 (19 Objects)  | 3.3p 3 (22 Objects)  |
+|    |                      | 4.3p2 3 (11 Objects) | 4p2 3 (14 Objects)   | 3.8p2 3 (17 Objects) | 3.6p2 3 (20 Objects) | 3.6p2 3 (23 Objects) |
+|    |                      |                      | 4.5p3 3 (15 Objects) | 4.2p3 3 (18 Objects) | 4p3 3 (21 Objects)   | 3.8p3 3 (24 Objects) |
+|    |                      |                      |                      | 4.6p4 3 (19 Objects) | 4.3p4 3 (22 Objects) | 4.1p4 3 (25 Objects) |
+|    |                      |                      |                      |                      | 4.6p5 3 (23 Objects) | 4.4p5 3 (26 Objects) |
+|    |                      |                      |                      |                      |                      | 4.7p6 3 (27 Objects) |
+ 
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+### Multiples
+
 A curious thing happens when we transform a siteswap into a 4 person passing pattern. There are 3 possible transformations, we can add 1/4, 2/4s or 3/4s. Adding 2/4s is the same as adding 1/2 so it follows that 2 person patterns can be done as 4 person patterns. Indeed they can be done as patterns for any even amount of jugglers.
+
 More genrerally any patterns with y jugglers can done as patterns for multiples of y jugglers.
+
 This is usefull to quickly transform known 2 or 3 person patterns into patterns for more people whilst keeping the familiarity of the known pattern.
+
 So one change the 7 object 2 juggler 4 count patterns 5p333 into a 4 person y. Or the 3 person 10 object 3 count 4p33 into a 6 person spider....
+
 So three person patterns can be done by six, nine or twelve jugglers.
-Glitches in the system
+
+### Glitches in the system
+
 There is a grey area between staggered symmetric patterns and symmetric passing patterns. Lets take for example the siteswap 1111 and transform the first and third digits to end up with 3p13p1 this pattern is symmetric and not staggered symmetric in the sense that we have been talking about.
 
-4 person symmetric patterns
-Even period patterns
+## 4 person symmetric patterns
+
+### Even period patterns
+
 Even period pattern follow an elegant simple progression as the amount of jugglers increases. They just generate classic passes and equihanded passes. The only thing that changes is the degrees of augmentation; which essentialy means that the passing circulation stays the same but the passing order changes.
+
 Single augmented patterns, p1s have passing circulation and passing order the same. So can be done J1 j2 j3 j4
+
 Double augmented Have J1 and J3 starting first at the same time followed by J2 and J4. Essentially one can think of these as 2 person patterns which have been doubled.
+
 Tripple augmented patterns: J1 J4 J3 J2
-1)Classic
+
+#### 1) Classic
+
 The classic patterns are the most intuitive and resemble classic patterns for 2 and 3 jugglers. They can be done all the rights to all the lefts.
-Illustration of box, Y and dropback lines. Chart of the all the various permutations.
+
+Illustration of box, Y and dropback lines. 
+
+Chart of the all the various permutations.
+
 They can be augmented twice. So for example
-33.5p a 13 object 2 count
-34p2 a fourteen object 2 count that one could think of as 2 interlinked 7s. 34.5p3 a fifteen object 2 count.
+3 3.5p a 13 object 2 count
+3 4p2 a fourteen object 2 count that one could think of as 2 interlinked 7s. 
+3 4.5p3 a fifteen object 2 count.
+
 They are made by augmenting odd digits in even period siteswaps.
-2)Equihanded
+
+#### 2) Equihanded
+
 As with the classic patterns these patterns in essence stay the same. The hand that passes is the hand that recieves.
+
 Example patterns
+
 They are made by augmenting even digits in even period siteswaps.
 
-Odd period patterns
-1) Bi patterns single augmentation and tripple augmentation p3
+### Odd period patterns
+
+#### 1) Bi patterns single augmentation and tripple augmentation p3
+
 Bi patterns of single and tripple augmentation can be done with 3 jugglers crossing and 1 juggler throwing tramline straight or the opposite, 3 jugglers throwing tramline straight and 1 jugglers crossing.
+
 They can’t be juggled with all the jugglers doing the same thing.
+
 Bi Patterns are generated by modifying odd digits within even period patterns.
-  1 R-L
-2 R-R
-3 R-R
-4 R-R
-5 R-R
-6 R-L
-7 R-L
-8 R-L
-R-L R-L L-L R-L L-R L-L L-R L-R L-L R-R R-R L-R R-L R-R R-R L-L
-Straight Straight Straight Cross Cross Cross Straight Cross Cross Straight Cross Cross Cross Straight Straight Straight Cross Cross Cross Straight Straight Cross Straight Straight Straight Straight Cross Straight Straight Cross Cross Cross
-gA gB gC
-gd gA R-R L-R R-R L-L R-R L-L L-R L-L L-R L-L L-R L-R L-R L-R R-R L-R
-gb gC gd L-R L-R L-L R-R L-R L-L R-L R-R L-L R-L R-L R-L R-R L-L R-L L-L R-L R-L L-R L-L R-L L-L R-R L-L
-         The 8 possible hand circulations of Bi with single and tripple aumentation. Essentially when one juggles these patterns 3 people decide to do the same thing, either go straight or cross, and the fourth juggler will be forced to do the opposite.
-2) Double augmentation p2
+
+| | A | B | C | d | A | b | C | d| |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | R-L | R-L | R-L | R-R | L-R | L-R | L-R | L-L | Straight Straight Straight Cross |
+| 2 | R-R | L-L | R-L | R-R | L-L | R-R | L-R | L-L | Cross Cross Straight Cross |
+| 3 | R-R | L-R | L-L | R-R | L-L | R-L | R-R | L-L | Cross Straight Cross Cross |
+| 4 | R-R | L-R | L-R | L-R | L-L | R-L | R-L | R-L | Cross Straight Straight Straight |
+| 5 | R-R | L-L | R-R | L-R | L-L | R-R | L-L | R-L | Cross Cross Cross Straight |
+| 6 | R-L | R-R | L-R | L-R | L-R | L-L | R-L | R-L | Straight Cross Straight Straight |
+| 7 | R-L | R-L | R-R | L-R | L-R | L-R | L-L | R-L | Straight Straight Cross Straight |
+| 8 | R-L | R-R | L-L | R-R | L-R | L-L | R-R | L-L | Straight Cross Cross Cross |
+
+The 8 possible hand circulations of Bi with single and tripple aumentation. Essentially when one juggles these patterns 3 people decide to do the same thing, either go straight or cross, and the fourth juggler will be forced to do the opposite.
+
+#### 2) Double augmentation p2
+
 Double augmented bis can be done all cross and all straight
-3) Instant Bi single and tripple augmentation.
+
+#### 3) Instant Bi single and tripple augmentation.
+
 These patterns end up having the same circulation as the Bi patterns with the same augmentation. The difference is that the hand that recieves the pass is the hand that passes.
-4) Instant Bi patterns Double augmentation p2
+
+#### 4) Instant Bi patterns Double augmentation p2
+
 These patterns can be juggled with 2 jugglers going straight and 2 jugglers crossing, or all jugglers going straight or all jugglers crossing.
 
-5 and more people symmetric patterns
+## 5 and more people symmetric patterns
+
 It seems unnecessary to go into every permutation of every amount of juggler. The following are just distilled bits of information
+
 5 Person Bi Patterns
+
 Bi P can be done all cross
-Bi P2 can be done all straight Bi P3 can be done all cross Bi P4 can be done all straight
+Bi P2 can be done all straight 
+Bi P3 can be done all cross 
+Bi P4 can be done all straight
+
 5 Person Instant Bi Patterns
-Bi P can be done all Straight Bi P2 can be done all cross
-Bi P3 can be done all Straight Bi P4 can be done all cross
-Passing order
-Lets assume that the passing direction is j1 j2 j3 j4 j5 then if we augment by 2/5 the passing order will be: j1 j4 j2 j5 j3
+
+Bi P can be done all Straight 
+Bi P2 can be done all cross
+Bi P3 can be done all Straight 
+Bi P4 can be done all cross
+
+### Passing order
+
+Lets assume that the passing direction is j1 j2 j3 j4 j5 
+
+then if we augment by 2/5 the passing order will be: 
+
+j1 j4 j2 j5 j3
+
 3/5
-j1 j3 j5 j2 j4 4/5
+
+j1 j3 j5 j2 j4 
+
+4/5
+
 j1 j5 j4 j3 j2
+
 It seems unnecessary to go into every permutation of every amount of juggler.
 
-Generalising to odd amounts of juglers
-the alterantion between all cross and all straight on the levels of augmentation is true for all odd patterns
+## Generalising to odd amounts of juglers
+
+### the alterantion between all cross and all straight on the levels of augmentation is true for all odd patterns
+
+## 6 jugglers
+
 Nothing here yet.
-6 jugglers
-Feeds
+
+## Feeds
+
 The subject of feeds if too vast to properly cover here. However there is an easy way to make balanced feeds. By balanced feeds we mean feeds where each feedee does the same job.
+
 You can take any symmetric pattern and feed it with a siteswap equal to its length. You simply replace one of the siteswap values with a p for pass....
+
 by then shifting the causal diagram in time we can i believe arrive at all symmetric feeds!...
-Popcorn patterns
+
+## Popcorn patterns
+
 All popcorn patterns are symmetric patterns. The reverse is not true. See article on popcorn patterns.
 
-Passing order generalised
-If we take x jugglers who when augmented by 1/period pass in the following order: j1, j2, j3 .... jx-1, jx
+## Passing order generalised
+
+If we take x jugglers who when augmented by 1/period pass in the following order: 
+
+j1, j2, j3 .... jx-1, jx
+
 Then if we augment a pass by y/x, where y < x
+
 then
-Juggler number multiplied y Mod x = passing order number - 1 Juggler number multiplied y Mod x = passing order number - 1
+
+Juggler number multiplied y Mod x = passing order number - 1 
+Juggler number multiplied y Mod x = passing order number - 1
+
 For example if we have 7 jugglers and augment by 2/7th and we want to know when the 3th juggler will throw. We do 3 x 2 mod 7 minus 1 Which gives us 5.
+
 6 people
+
 p1 j1, j2, j3, j4, j5, j6
-p2 j1 j4 , j2 j5 j3j6 (jugglers start 2 at a time) p3 j1 j3 j5 j2, j4, j6 (jugglers start 3 at a time) p5 j1j4 j3j6 j2 j5
+p2 j1 j4 , j2 j5 j3j6 (jugglers start 2 at a time) 
+p3 j1 j3 j5 j2, j4, j6 (jugglers start 3 at a time) 
+p5 j1j4 j3j6 j2 j5
+
 Check if the above calculations work with this and add circulation for 7!
-Nested Patterns
+
+## Nested Patterns
