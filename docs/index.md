@@ -9,4 +9,4 @@ This purpose of this project is to make Sean Gandini's article mobile friendly, 
 
 Done with permission from Sean Gandini. 
 
-<p class="button"><a href="SymmetricPatternsClassified_SG_2008-02-24.pdf">Original PDF Article</a></p>
+<p class="button"><a href="SymmetricPatternsClassified_SG_2008-02-24.pdf" target="_blank">Original PDF Article</a></p>
