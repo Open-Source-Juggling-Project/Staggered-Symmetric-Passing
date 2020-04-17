@@ -88,16 +88,22 @@ On our lists they will be coloured <span style="color:blue">blue</span>.
 Example patterns
 
 3 Objects:
-3p 1 1 1 A fun three object four count pattern.
+
+<span style="color:blue">3p</span> 1 1 1 
+A fun three object four count pattern.
 
 5 Objects:
-4p 1 One hand throws one hand zaps.
+
+<span style="color:blue">4p</span> 1 
+One hand throws one hand zaps.
 
 7 Objects:
-4p 3 The classic seven two count:
 
-Done with clubs as double passes and single selfs.
-5p 3 3 3 Seven object four count: Seven 4 count or “triple singles”
+<span style="color:blue">4p</span> 3 
+The classic seven two count: Done with clubs as double passes and single selfs.
+
+<span style="color:blue">5p</span> 3 3 3 
+Seven object four count: Seven 4 count or “triple singles”
 
 ## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
