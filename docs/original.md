@@ -81,8 +81,6 @@ Classic passes are the most frequently juggled passing patterns. They are even p
 
 ** Classic passes are generated when an Odd digit is transformed upwards or downwards within an Even Period siteswap.** 
 
-## =-= [Text Colouring Required Here] =-=
-
 On our lists they will be coloured <span style="color:blue">blue</span>.
 
 Example patterns
@@ -90,22 +88,24 @@ Example patterns
 3 Objects:
 
 <span style="color:blue">3p</span> 1 1 1 
+
 A fun three object four count pattern.
 
 5 Objects:
 
 <span style="color:blue">4p</span> 1 
+
 One hand throws one hand zaps.
 
 7 Objects:
 
 <span style="color:blue">4p</span> 3 
+
 The classic seven two count: Done with clubs as double passes and single selfs.
 
 <span style="color:blue">5p</span> 3 3 3 
-Seven object four count: Seven 4 count or “triple singles”
 
-## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Seven object four count: Seven 4 count or “triple singles”
 
 As we mentioned before the simplest way of juggling classic patterns is face to face, with the right hands throwing to the left hands. However if you whish to make your life more complex or ideed for many fun side to side patterns there are actually 4 different ways of juggling these patterns:
 
