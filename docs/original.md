@@ -83,7 +83,7 @@ Classic passes are the most frequently juggled passing patterns. They are even p
 
 ## =-= [Text Colouring Required Here] =-=
 
-On our lists they will be coloured blue.
+On our lists they will be coloured <span style="color:blue">blue</span>.
 
 Example patterns
 
