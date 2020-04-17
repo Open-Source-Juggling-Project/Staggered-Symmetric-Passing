@@ -334,42 +334,77 @@ So in fact in you are in the company of 5 jugglers who are good polyrhytmic mult
 ## 3 jugglers
 
 For 3 jugglers things get slightly more complex but more interesting. One now has a choice of adding or substracting either 1 third of the period, or 2 thirds of the period in order to transform a throw into a pass. We call these different transformations levels of augmentation. So a siteswap to which one adds 1 third is single augmented and one to which one adds 2 thirds become double augmented.
+
 For example if i start from the siteswap 33 which is period 2, i can transform it by adding a third:
+
 33 we add 0.6 which is a third of 2, and we get: 3.6p3 a 10 object 2 count triangle
-or adding 2 thirds
+
+Or adding 2 thirds:
+
 33 we add 1.3 which is two thirds of the period and we get: 4.3p23 an 11 Object 2 count triangle or dropback line
+
 Notice that for clarity we have added a subscript of 2 after the p. This means that the pass has been augmented twice.
 In terms of levels of augmentation substraction does the opposite, if we deduct 1 third we end up with a double augmented pass and if we substract 2 thirds we end up with a single augmented pass.
+
 The difference between single augmented passes and double augmented passes, is the juggler passing order.
-Pass direction versus juggler passing order.
+
+### Pass direction versus juggler passing order.
+
 This is a very important concept to understand. The pass direction is from whom to whom the passes go, which juggler passes to which juggler; whilst the passing order is the order in which the jugglers pass.
+
 The amount one adds to the pass affects the passing order of a pattern. So for example if we imagine three jugglers a,b,c juggling in a triangle where a throws to b, b throws to c and c throws to a. If the pass was generated adding 1/3rd of the period then the passing order will be the same as hand circulation, however if we add 2/3rds then the passing order will be the reverse of the hand circulation. We ill see later that the same is true for more passers.
+
 A good way of understanding this concept is to compare the classic 10 club and 11 club 2 count triangles. The 10 club triangle is 3 3.6p a single augmented pattern. The jugglers pass a to b, b to c, and c back to a. The passing order is the same. So if one starts the pattern cold a starts, followed by b and then by c. Simple and intuitive.
+
 In the 11 club triangle however the passing order is the same, but if a starts, c will pass second.
 
-3 person symmetric patterns
+### 3 person symmetric patterns
+
 So once again we have 4 different kinds of passes. Each of these patterns can be either single augmented or double augmented.
+
 Notice that the we maintain the same colours coding system.
-1) Classic
+
+#### 1) Classic
+
 3 person Classic patterns are extremely similar in feel to 2 person patterns and indeed to classic patterns for any amount of jugglers and any degree of augmentation. They can be juggled all the rights to all the lefts.
+
 In a triangle formation one can juggle them with all the passes going tramline straight. A number of these patterns were well known before siteswap notation.
+
 Classic passes are generated when:
+
 an odd digit is transformed upwards by 1/3rd of the period within an even period siteswap.
+
 an odd digit is transformed downwards by 2/3rds of the period within an even period siteswap.
+
+## =-= [Text Colouring Required Here] =-=
+
 On our lists they will be coloured blue.
+
 Example patterns:
+
 4 Objects
+
 1 1.6p
 A give the club to the next person shower. Both hands zapping.
+
 7 Objects
+
 3.6p 1
 A pass followed by a zap two count.
+
 3 1.6p
 The opposite of the above. A self followed by a zap pass.
+
 10 Objects
-33.6p
+
+3 3.6p
 The standart 10 Object 2 count. Notice from the 3.6p that with clubs this works confortably with both singles and doubles.
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
 Below is an illustration of the most common way of juggling Classic patterns in three popular configurations.
+
+## =-= [Image Required Here] =-=
 
    First pass A’s Right to B’s Left
    Second pass
@@ -405,13 +440,45 @@ L
      LR R
 LAR
 L
-   The above is one of the six different hand circulations for classic patterns. Below is a table with all six of the circulations. Note that the second three circulations are reflections of the first three.
-gA gB gC 1 R-L R-L R-L 2 R-L R-R L-L
-3 R-R L-R L-L 4 L-R L-R L-R 5 L-R L-L R-R 6 L-L R-L R-R
-2) Classic Augmented
+
+## =-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+The above is one of the six different hand circulations for classic patterns. Below is a table with all six of the circulations. Note that the second three circulations are reflections of the first three.
+
+|  | A | B | C | 
+|:---:|:---:|:---:|:---:|
+| 1 | R-L | R-L | R-L |
+| 2 | R-L | R-R | L-L |
+| 3 | R-R | L-R | L-L |
+| 4 | L-R | L-R | L-R |
+| 5 | L-R | L-L | R-R |
+| 6 | L-L | R-L | R-R |
+
+#### 2) Classic Augmented
+
 Classic Aumented patterns are very similar to classic patterns. They can also be juggled with all the passes going from rights to lefts tramline straight. The main difference is that the passing direction and passing order are different.
+
 Classic Augmented passes are generated when:
-an odd digit is transformed upwards by 2/3rds of the period within an even period siteswap. an odd digit is transformed downwards by 1/3rd of the period within an even period siteswap.
+
+an odd digit is transformed upwards by 2/3rds of the period within an even period siteswap. 
+
+an odd digit is transformed downwards by 1/3rd of the period within an even period siteswap.
+
+On our lists Classic Augmented patterns will be coloured blue and have a 2 as a subscript. Example patterns
+
+5 Objects
+
+2.3p2 1 
+Fast passes across followed by a zap.
+
+8 Objects
+4.3p2 1 
+Big pass followed by a zap.
+
+11 Objects
+4.3p2 3 
+Is the standard 11 club triangle, usually done on floaty doubles.
+
 B
 B
 B
@@ -430,13 +497,7 @@ B
 B
 B
 
-On our lists Classic Augmented patterns will be coloured blue and have a 2 as a subscript. Example patterns
-5 Objects
-2.3p2 1 Fast passes across followed by a zap.
-8 Objects
-4.3p2 1 Big pass followed by a zap.
-11 Objects
-4.3p2 3 Is the standard 11 club triangle, usually done on floaty doubles.
+
        First pass A’s Right to B’s Left
 Second pass C’s Right to A’s Left
 Third pass B’s Right to C’s Left
@@ -470,8 +531,7 @@ L
 LR R
 LAR
 L
-          The difference between the Classic and Classic Augmented diagrams is simply a switching of the second and third passes.
-This is true of all the patterns which are augmented by 2/3rds and are writen as p2 in our lists. Once in motion these patterns feel identical to the classic patterns. The main difference between
+
 B
 B
 B
@@ -490,75 +550,135 @@ B
 B
 B
 
-them is that the passing order and the passing direction are different. This means that if juggler A throws to Juggler B who throws to juggler C, then the order in which the jugglers beggin throwing (and ideed continue throwing) Will be A, C, B.
+The difference between the Classic and Classic Augmented diagrams is simply a switching of the second and third passes.
+
+This is true of all the patterns which are augmented by 2/3rds and are writen as p2 in our lists. 
+
+Once in motion these patterns feel identical to the classic patterns. The main difference between them is that the passing order and the passing direction are different. This means that if juggler A throws to Juggler B who throws to juggler C, then the order in which the jugglers beggin throwing (and ideed continue throwing) Will be A, C, B.
+
 Below is a table with all six possible hand circulations for Classic Augmented passes.
-gA gC gB 1 R-L R-L R-L 2 R-L R-R L-L
-3 R-R L-R L-L 4 L-R L-R L-R 5 L-R L-L R-R 6 L-L R-L R-R
-3) Equihanded
+
+|  | A | C | B | 
+|:---:|:---:|:---:|:---:|
+| 1 | R-L | R-L | R-L | 
+| 2 | R-L | R-R | L-L | 
+| 3 | R-R | L-R | L-L | 
+| 4 | L-R | L-R | L-R |  
+| 5 | L-R | L-L | R-R |  
+| 6 | L-L | R-L | R-R | 
+
+#### 3) Equihanded
+
 The general rule for equihanded passes is that the hand that throws is the hand that recieves a pass. This is true for equihnaded patterns with any amounts of jugglers. So only one of the juggler’s hands is involved in throwing and catching the pass. In a triangle one of the easiest ways of juggling these patterns is crossing all the passes.
+
 In a dropback its possible to juggle equihanded patterns with all the passes just on one side. See illustration
+
 Equihanded passes are generated when:
+
 an Even digit is transformed upwards by 1/3rd of the period, within an Even period siteswap.
+
 an Even digit is transformed downwards by 2/3rds of the period within an Even period siteswap.
+
 On our lists they will be coloured red.
+
 Example patterns
+
 4 Objects
-3.3p011
+
+3.3p 0 1 1
 4 Objects shared between three hands with a stolen zap-zap in between
-7Objects
-3.3p231 derived from 3.3p222 and similar to 3.3p312 usefull for timing to throw the 2s.
+
+7 Objects
+
+3.3p2 3 1 
+Derived from 3.3p222 and similar to 3.3p312 usefull for timing to throw the 2s.
+
 10 Objects
-43.3p33 A nice popcorn pattern.
-                
- 1 R-R
-2 R-R
-3 R-L
-4 R-L
-5 L-L
-6 L-L
-7 L-R
-8 L-R
-R-R R-R R-L L-R L-R R-R L-L L-R L-L L-L L-R R-L R-L L-L R-R R-L
-gA gC gB
-         Above is the table for the 8 possible circulations of Equihanded patterns. Note that the bottom 4 are reflections of the top 4.
+
+4 3.3p 3 3 
+A nice popcorn pattern.
+
+|  | A | C | B | 
+|:---:|:---:|:---:|:---:|
+| 1 | R-R | R-R | R-R | 
+| 2 | R-R | R-L | L-R | 
+| 3 | R-L | L-R | R-R | 
+| 4 | R-L | L-L | L-R | 
+| 5 | L-L | L-L | L-L | 
+| 6 | L-L | L-R | R-L | 
+| 7 | L-R | R-L | L-L | 
+| 8 | L-R | R-R | R-L | 
+       
+Above is the table for the 8 possible circulations of Equihanded patterns. Note that the bottom 4 are reflections of the top 4.
+
 Actually one can ignore this chart and just pick a hand for each juggler and know that the throws and catches will go between those hands.
-4) Equihanded Augmented
+
+#### 4) Equihanded Augmented
+
 The Augmented Equihanded passes are very similar to the Equihanded passes, the only difference being the hand circulation. The passes still involve only one of the jugglers hands.
+
 Equihanded Augmented passes are generated when an:
-Even digit is transformed upwards by 2/3rds of the period within an Even period siteswap. Even digit is transformed downwards by 1/3rd of the period within an Even period siteswap.
+
+Even digit is transformed upwards by 2/3rds of the period within an Even period siteswap. 
+
+Even digit is transformed downwards by 1/3rd of the period within an Even period siteswap.
+
 On our lists Classic Augmented patterns will be coloured red and have a 2 as a subscript.
-5 Objects 2.7p112
+
 Example patterns
+
+5 Objects 
+
+2.7p2 1 1 2
+
 11 Objects
-43.3p A cheeky pattern with all three jugglers juggling two in one hand and passing the other five clubs between the three remaining hands.
-gA gB gC
-1 R-R R-R R-R
-2 R-R R-L L-R
-3 R-L L-R R-R
-4 R-L L-L L-R
-5 L-L L-L L-L
-6 L-L L-R R-L
-7 L-R R-L L-L
-8 L-R R-R R-L
+
+4 3.3p2 
+A cheeky pattern with all three jugglers juggling two in one hand and passing the other five clubs between the three remaining hands.
+
+|  | A | C | B | 
+|:---:|:---:|:---:|:---:|
+| 1 | R-R | R-R | R-R | 
+| 2 | R-R | R-L | L-R | 
+| 3 | R-L | L-R | R-R | 
+| 4 | R-L | L-L | L-R | 
+| 5 | L-L | L-L | L-L | 
+| 6 | L-L | L-R | R-L | 
+| 7 | L-R | R-L | L-L | 
+| 8 | L-R | R-R | R-L | 
+
 Above is the table for the eight possible circulations of Equihanded Augmented patterns. Note that the bottom four are reflections of the top four.
           
-5) All Cross
+#### 5) All Cross
+
 The name All Cross comes from the most common way of juggling this pattern in a triangle in which all the passes cross. see illustration below. The pass leaves from from the hand that didn’t recieve the pass.
+
 There is just one other way of juggling this kind of pass in a triangle: one juggler thorwing all passes crossed and two jugglers throwing straight. Here too one passes from the hand that didnt recieve the pass.
+
 All cross passes are generated when:
+
 an Odd digit is transformed upwards by 1/3rd of the period within an Odd period siteswap.
+
 an Even digit is transformed downwards by 2/3rds of the period within an Odd period siteswap.
+
 On our lists All cross patterns are Purple.
+
 Example patterns
+
 4 Objects
-2p11
+
+2p 1 1
 Clubs in a triangle. An intriguing three count. Great to get used to 2ps. The pattern has a straightforward start.
 J1 starts with 2 clubs one in each hand, J2 with one in the left and j3 with one in the right. Each juggler throws towards the empty hand. Every club circulates. The pattern is uniorbitted.
+
 7 Objects
-4p12
+
+4p 1 2
 An easy three count pattern which can be used as practice for the pattern below.
+
 10 Objects
-334p
+
+3 3 4p
 Ten object three count. Lots of fun as a double spin triangle.
 
  LR R
@@ -622,14 +742,47 @@ Fifth pass A’s Right to B’s Right
 LR
 LAR
 Sixth pass A’s Right to B’s Right
-    Above is the one of the ways of juggling all cross patterns in drop back line. Ironically the passes are all tramway so one could have called this category all straight.
-gA gB gC gA gB gC 1 R-R L-L R-R L-L R-R L-L 2 R-R L-R L-R L-L R-L R-L 3 R-L R-L R-R L-R L-R L-L 4 R-L R-R L-R L-R L-L R-L
+
+Above is the one of the ways of juggling all cross patterns in drop back line. Ironically the passes are all tramway so one could have called this category all straight.
+
+|  | A | B | C | A | B | C | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | R-R | L-L | R-R | L-L | R-R | L-L |  
+| 2 | R-R | L-R | L-R | L-L | R-L | R-L |  
+| 3 | R-L | R-L | R-R | L-R | L-R | L-L |  
+| 4 | R-L | R-R | L-R | L-R | L-L | R-L | 
+
 Above are the four hand circulations for all cross patterns.
-6) All Cross augmented
+
+#### 6) All Cross augmented
+
 As with all the augmented patterns the hand circulation is the same but passing order is different. So these patterns can be juggled in a triangle with all the passes crossing. Here the hand that recieves the pass is that hand that passes.
+
 As in the All Cross you can juggle these patterns as all tramway dropback lines.
+
 All Cross augmented passes are generated when:
-an Even digit is transformed upwards by 2/3rds of the period within an Odd period siteswap. an Odd digit is transformed downwards by 1/3rd of the period within an Odd period siteswap.
+
+an Even digit is transformed upwards by 2/3rds of the period within an Odd period siteswap. 
+
+an Odd digit is transformed downwards by 1/3rd of the period within an Odd period siteswap.
+
+On our list all cross augmented are purple with a 2 subscript. 
+
+Example patterns
+
+5 Objects 
+
+4p2 0 1
+
+8 Objects 
+
+2 2 4p2
+
+11 Objects
+
+3 4 4p2 
+A nice difficult popcorn.
+
 BBB
 B
 BB
@@ -639,11 +792,7 @@ C
 C
 C
 
-On our list all cross augmented are purple with a 2 subscript. Example patterns
-5 Objects 4p201
-8 Objects 224p2
-11 Objects
-344p2 A nice difficult popcorn.
+
  LR R
 LAR
 First pass A’s Right to B’s Right
@@ -668,7 +817,6 @@ L
 LAR
 Sixth pass B’s Right to A’s Right
 L
-    gA gC gB gA gC gB 1 R-R L-L R-R L-L R-R L-L 2 R-R L-R L-R L-L R-L R-L 3 R-L R-L R-R L-R L-R L-L 4 R-L R-R L-R L-R L-L R-L
 C
 C
 C
@@ -682,18 +830,36 @@ B
 B
 B
 
-7) Tramway
+|  | A | C | B | A | C | B | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | R-R | L-L | R-R | L-L | R-R | L-L |  
+| 2 | R-R | L-R | L-R | L-L | R-L | R-L |  
+| 3 | R-L | R-L | R-R | L-R | L-R | L-L |  
+| 4 | R-L | R-R | L-R | L-R | L-L | R-L | 
+
+#### 7) Tramway
+
 Tramway passes get their name from the fact that one can juggle these patterns in a triangle with all passes going tramway straight. The hand that recieves the pass is the hand that passes next.
+
 Tranway passes are generated when:
-an Even digit is transformed upwards by 1/3rd of the period within an Odd period siteswap. an Odd digit is transformed downwards by 2/3rd of the period within an Odd period siteswap.
+
+an Even digit is transformed upwards by 1/3rd of the period within an Odd period siteswap. 
+
+an Odd digit is transformed downwards by 2/3rd of the period within an Odd period siteswap.
+
 In our lists tramway patterns are Green.
-7 Objects
+
 Example patterns
-223p
+
+7 Objects
+
+2 2 3p
 A great way of learning how to do these patterns. Each juggler has two clubs and exchanges one of his clubs for the incoming pass.
+
 10 Objects
-43p3
-A charming but difficult three count similar to the popular two person French 3 count (43.5p3)
+
+4 3p 3
+A charming but difficult three count similar to the popular two person French 3 count (4 3.5p 3)
 
  LR R
 LAR
@@ -756,12 +922,43 @@ Fifth pass B’s Right to C’s Left
 LR
 LAR
 Sixth pass C’s Left to A’s Right
-            gA gB gC gA gB gC 1 R-L L-R R-L L-R R-L L-R 2 R-R R-R R-L L-L L-L L-R 3 R-L L-L L-L L-R R-R R-R 4 R-R R-L L-L L-L L-R R-R
-8) Tramway Augmented
+
+|  | A | B | C | A | B | C | 
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1 | R-L | L-R | R-L | L-R | R-L | L-R |  
+| 2 | R-R | R-R | R-L | L-L | L-L | L-R |  
+| 3 | R-L | L-L | L-L | L-R | R-R | R-R |  
+| 4 | R-R | R-L | L-L | L-L | L-R | R-R | 
+
+#### 8) Tramway Augmented
+
 Tramway Augmented can be juggled like Tramway passes all passes going tranway straight. Once again the hand circulation and passing order are diffferetn. The passes leave from the hand that did not recieve the previous incoming pass.
-Tramway Augmented passes are generated when an Odd digit is transformed upwards by 2/3rd of the period within an Odd period siteswap.
-Tramway Augmented passes are generated when an Even digit is transformed downwards by 1/3rd of the period within an Odd period siteswap.
+
+Tramway Augmented passes are generated when: 
+
+an Odd digit is transformed upwards by 2/3rd of the period within an Odd period siteswap.
+
+an Even digit is transformed downwards by 1/3rd of the period within an Odd period siteswap.
+
 In our list tramway augmented passes are green and have 2 Subscript.
+
+Example patterns
+
+5 Objects 
+
+1 1 3p2
+A zap zap pass pattern which is usefull to get to grips with hand circulation
+
+8 Objects
+
+4 3p2 1
+A strange three count.
+
+11 Objects
+
+3 3 5p2
+11 three count, a difficult three count with tripple passes.
+
 BBB
 B
 BB
@@ -771,15 +968,7 @@ C
 C
 C
 
-5 Objects 113p2
-Example patterns
-A zap zap pass pattern which is usefull to get to grips with hand circulation
-8 Objects
-43p21
-A strange three count.
-11 Objects
-335p2
-11 three count, a difficult three count with tripple passes.
+
  LR R
 LAR
 First pass A’s Right to B’s Left
